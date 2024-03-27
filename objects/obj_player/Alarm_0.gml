@@ -1,0 +1,2 @@
+/// @description Damage State reset
+
